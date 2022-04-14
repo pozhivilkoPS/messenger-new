@@ -1,0 +1,14 @@
+{
+  "modelPackage": "com.company.client.gateway.model",
+  "apiPackage": "com.company.client.gateway.api",
+  "library": "spring-mvc",
+  "dateLibrary": "java8",
+  "hideGenerationTimestamp": true,
+  "interfaceOnly": true,
+  "skipDefaultInterface": true,
+  "unhandledException": true,
+  "useTags": false,
+  "enablePostProcessFile": true,
+  "booleanGetterPrefix": "is",
+  "useBeanValidation": true
+}
